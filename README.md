@@ -37,6 +37,7 @@ No momento, estou reforçando meus fundamentos de desenvolvimento web e programa
 - SQL
 - Git e GitHub
 - Fundamentos de Engenharia de Software
+- Infraestrutura de Redes
 
 Também estou retomando meus conhecimentos em **React** conforme avanço novamente em JavaScript.
 
