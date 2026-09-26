@@ -79,7 +79,7 @@ O sistema utiliza um **ESP32** para aquisição de sinais e uma aplicação em *
 
 ---
 
-## 🛗 Sky Manage — FIAP + OTIS
+## 🛗 Otis Skymanage — FIAP
 
 Projeto acadêmico desenvolvido em equipe durante o **Challenge FIAP**, a partir de um desafio proposto pela OTIS.
 
@@ -110,21 +110,12 @@ O projeto também está sendo utilizado como ambiente para evolução dos meus c
 
 **Tecnologias:**
 
-`HTML` `CSS`
+`HTML` `CSS` `JAVASCRIPT` `REACT` 
 
 ---
 
-## 📚 Minha evolução
+## 📫 Contato
 
-Neste momento estou reconstruindo meus fundamentos de desenvolvimento web seguindo esta sequência:
-
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-APIs
-  ↓
-React
+[LinkedIn](https://www.linkedin.com/in/alan-carlos-1b2806295/)  
+E-mail: alancarlosbdelima@gmail.com  
+Santa Catarina, Brasil
