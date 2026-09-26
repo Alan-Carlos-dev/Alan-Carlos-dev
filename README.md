@@ -79,26 +79,28 @@ O sistema utiliza um **ESP32** para aquisição de sinais e uma aplicação em *
 
 ---
 
-## 🛗 Otis Skymanage — FIAP
+### 🛗 OTIS SkyManage — Challenge FIAP + OTIS
 
 Projeto acadêmico desenvolvido em equipe durante o **Challenge FIAP**, a partir de um desafio proposto pela OTIS.
 
-Minha principal contribuição foi no desenvolvimento da lógica de **RBAC — Role-Based Access Control**, estruturando papéis e permissões para diferentes tipos de usuários do sistema.
+O **OTIS SkyManage** é um sistema simulado para gerenciamento de diferentes etapas e usuários envolvidos nos processos de venda, fabricação, instalação e acompanhamento de serviços.
 
-Entre os perfis simulados estavam:
+Minha principal contribuição no projeto foi no desenvolvimento da lógica de **RBAC — Role-Based Access Control**, estruturando papéis e permissões para controlar quais páginas, funcionalidades e ações cada perfil poderia acessar dentro da aplicação.
 
-- Vendas
-- Fabricação
-- Instalação
-- Administração
-- Cliente
+🌐 **Aplicação:**  
+[OTIS SkyManage](https://otis-skymanage.vercel.app/login)
 
-Cada perfil possuía diferentes permissões de acesso às funcionalidades da aplicação.
+#### 🧪 Acesso para demonstração
 
-🌐 Aplicação:  
-https://otis-skymanage.vercel.app/login
+**Funcionário — Vendas**
 
-> Projeto desenvolvido academicamente em equipe.
+- Usuário: `joao.vendas`
+- Senha: `123`
+- Perfil: Responsável de Vendas
+
+O usuário possui acesso às funcionalidades relacionadas a contratos, clientes, catálogo e processos de venda.
+
+> Os usuários e dados presentes na aplicação são fictícios e foram criados exclusivamente para demonstração do projeto acadêmico.
 
 ---
 
