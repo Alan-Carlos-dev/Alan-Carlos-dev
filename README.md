@@ -94,6 +94,7 @@ Minha principal contribuição no projeto foi no desenvolvimento da lógica de *
 
 **Funcionário — Vendas**
 
+- Credencial:`VENDAS_01`
 - Usuário: `joao.vendas`
 - Senha: `123`
 - Perfil: Responsável de Vendas
